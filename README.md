@@ -1,7 +1,7 @@
-*Created: 29/09/2022, 21:38:44
-*Contact:
+* Created: 29/09/2022, 21:38:44
+* Contact:
 --Author: Mónica Leiria de Mendonça
---monicalmms (aaaatttt) hotmail (dddottt) com
+--monicalmms (at) hotmail (dot) com
 
 Contains details about the files/data analysis regarding the article doi: 10.48550/arXiv.2305.12207
 (https://doi.org/10.48550/arXiv.2305.12207 ,
