@@ -1,9 +1,2 @@
-* Created: 29/09/2022, 21:38:44
-* Contact:
---Author: Mónica Leiria de Mendonça
---monicalmms (at) hotmail (dot) com
-
-Contains details about the files/data analysis regarding the article doi: 10.48550/arXiv.2305.12207
-(https://doi.org/10.48550/arXiv.2305.12207 ,
-"Inferring diagnostic and prognostic gene expression signatures across WHO glioma classifications: A network-based approach",
-Roberta Coletti, Mónica Leiria de Mendonça, Susana Vinga, Marta B. Lopes)
+Contains details about the files/data analysis regarding the article:
+Coletti R, Leiria de Mendonça M, Vinga S, Lopes MB. Inferring Diagnostic and Prognostic Gene Expression Signatures Across WHO Glioma Classifications: A Network-Based Approach. Bioinform Biol Insights. 2024 Sep 15;18:11779322241271535. doi: 10.1177/11779322241271535. PMID: 39286768; PMCID: PMC11403688.
